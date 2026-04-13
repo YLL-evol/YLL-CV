@@ -2,14 +2,24 @@
 YLL's educations and lab insternships
 
 
+
 # Formation
 
+
+
 Workshop: Taxonomy in Big Data workshop. 2025.3.24-28 @MNHN, Paris, France
+
 Workshop: New Caledonia Porifera (sponges) taxonomy workshop. 2024.12.2-13 @MNHN, Paris, France
 
+
+
 Master 2: Biology & Health: Cell Signalization and Intergrative Neuronsciences. 2023-2024 @University of Paris-Saclay, France
+
 Master 1: Biodiversity, Ecology & Evolution : Applied Ecology. Program IDIL. 2022-2023 @University of Montpellier, France
+
 Bachelor: Sciences of Life: Biology of Organisms and Ecology. 2021-2022 @University of Paris-Saclay, France
+
+
 
 # Internships
 
